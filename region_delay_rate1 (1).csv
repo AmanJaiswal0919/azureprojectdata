@@ -1,0 +1,5 @@
+delivery_region,total_orders,delayed_orders,delay_rate_%
+East,2,1,50.0
+North,2,2,100.0
+South,2,1,50.0
+West,2,1,50.0
